@@ -15,6 +15,10 @@ The Batch Watermark GUI is a Python-based graphical user interface (GUI) applica
 - Install the `Pillow` library for image processing:
 pip install pillow
 
+- Install `tkinter ` library for the gui:
+pip install tkinter
+
+
 
 ### Installation
 
